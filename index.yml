@@ -11,16 +11,16 @@ metas:
   twitter: ''
 links:
   - type: bluesky
-    text: caffeine.jp
+    text: Bluesky
     href: 'https://bsky.app/profile/caffeine.jp'
   - type: x
-    text: '@ma_2_i'
+    text: Twitter
     href: 'https://x.com/ma_2_i'
   - type: mastodon
-    text: '@hokahoka@fedibird.com'
+    text: Mastodon
     href: 'https://fedibird.com/@hokahoka'
   - type: misskey
-    text: '@hokahoka'
+    text: Misskey
     href: 'https://misskey.io/@hokahoka'
 footer: "Powered by [Lume](https://lume.land) & [SimpleMe](https://github.com/lumeland/theme-simple-me) theme"
 extra_head: ''
